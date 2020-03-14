@@ -1,0 +1,11 @@
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\bin\Debug\netcoreapp3.1\AdoDemo.exe
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\bin\Debug\netcoreapp3.1\AdoDemo.deps.json
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\bin\Debug\netcoreapp3.1\AdoDemo.runtimeconfig.json
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\bin\Debug\netcoreapp3.1\AdoDemo.runtimeconfig.dev.json
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\bin\Debug\netcoreapp3.1\AdoDemo.dll
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\bin\Debug\netcoreapp3.1\AdoDemo.pdb
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\obj\Debug\netcoreapp3.1\AdoDemo.csprojAssemblyReference.cache
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\obj\Debug\netcoreapp3.1\AdoDemo.AssemblyInfoInputs.cache
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\obj\Debug\netcoreapp3.1\AdoDemo.AssemblyInfo.cs
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\obj\Debug\netcoreapp3.1\AdoDemo.dll
+C:\Users\Shakti-PC\source\repos\AdoDemo\AdoDemo\obj\Debug\netcoreapp3.1\AdoDemo.pdb
